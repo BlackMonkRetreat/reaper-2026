@@ -52,7 +52,7 @@ REAPER 2026 provides a flexible environment for professional audio production, r
 
 ---
 
-![REAPER 2026](images.png)
+![REAPER 2026](images.jpg)
 
 ---
 
